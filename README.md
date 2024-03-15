@@ -1,2 +1,2 @@
-# Restoring-Division
-Restoring division using iverilog.
+# 16-bit Restoring-Division
+16-bit restoring division using iverilog.
